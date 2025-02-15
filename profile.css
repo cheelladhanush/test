@@ -168,6 +168,17 @@ section{
     background-position: center;
     width: 100%;
     color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+#section3 ul{
+    text-transform: capitalize;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 50px;
+    border-width: 3px;
+    margin: 10px 300px 10px;
+    list-style: none;
 }
 #section4{
     min-height: 100vh;
