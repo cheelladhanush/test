@@ -156,7 +156,7 @@ section{
     text-transform: capitalize;
     border: 2px solid white;
     border-radius: 20px;
-    padding: 15px;
+    padding: 24px;
     border-width: 2px;
     margin: 10px 500px 10px;
 }
@@ -177,5 +177,17 @@ section{
     background-position: center;
     width: 100%;
     color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+#section4 ul{
+    text-transform: capitalize;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 50px;
+    border-width: 3px;
+    margin: 10px 300px 10px;
+    list-style: none;
 }
 
